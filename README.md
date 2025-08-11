@@ -22,12 +22,19 @@ Quality Assurance Leader with over 15 years of experience bridging technical exp
 ---
 
 ## 📂 Portfolio & Resources
-- [Automation Demo with Cypress + TypeScript](#) *(coming soon)*  
-- [QA Strategy & Risk Matrix Templates](#) *(coming soon)*  
-- [QA Leadership Blog (in progress)](#)
+- **Understanding QA Departments in Digital Development** (coming soon)
+  *Demystifying QA roles, responsibilities, and processes to educate other departments on what QA truly does and how it impacts product quality.*
+
+- **The Business Case for Structured QA Teams** (coming soon)
+  *A guide for directors and C-level management on how investing in a solid QA structure can drive long-term profitability and reduce risks.*
+
+- **Mastering Risk Management and Calming the Raging Client** (coming soon) 
+  *Effective strategies and best practices to manage project risks and maintain strong client relationships under pressure.*
+
+
 
 ---
 
 ## 📬 Connect with Me
-- LinkedIn: [linkedin.com/in/fabriciomelo](https://linkedin.com/in/fabriciomelo)  
-- Email: fabricio.email@example.com
+- LinkedIn: [https://linkedin.com/in/fbrcmelo](https://www.linkedin.com/in/fbrcmelo/?locale=en_US)  
+- Email: fbrcmelo@outlook.com
